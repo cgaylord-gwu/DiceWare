@@ -53,6 +53,7 @@ https://www.idquantique.com/random-number-generation/products/quantis-random-num
 
 
 ## Articles
+https://www.eff.org/dice
 https://blog.cloudflare.com/randomness-101-lavarand-in-production/
 https://www.youtube.com/watch?v=1cUUfMeOijg
 
